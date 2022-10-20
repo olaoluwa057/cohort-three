@@ -17,6 +17,9 @@
   - [Vid Kersic](#vid-kersic)
     - [Vid Kersic: Update 1](#vid-kersic-update-1) 
 
+     - [Olaoluwa Fatolu](#Olaoluwa)
+    - [Olaoluwa Fatolu: Update 1](#olaoluwa-update-1) 
+
 ## Contributing
 
 If you are participating in the program, you should be posting or aggregating
@@ -57,3 +60,11 @@ Development updates from [`Vid Kersic`](https://github.com/vid201/)
 ### Vid Kersic: Update 1
 
 [Update 1](https://hackmd.io/@Vid201/epf-the-third-cohort-update-1) - **[17/10/2022]**
+
+## Olaoluwa
+
+Development updates from [`Olaoluwa Fatolu`](https://github.com/olaoluwa057)
+
+### Olaoluwa : Update 1
+
+[Update 1](https://hackmd.io/@qOgfNBoNS_qg19Myjd3g7w/H1ijHFCXj) - **[20/10/2022]**
